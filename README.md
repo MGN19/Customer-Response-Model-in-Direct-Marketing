@@ -7,14 +7,7 @@ This project was completed as part of a group assignment for the Programming for
 
 The project involved various steps of data exploration, feature extraction, and analysis, culminating in a model that can efficiently predict future responses to marketing offers.
 
----
-
-## 📝 Table of Contents:
-1. [Project Objective](#Project-Objective)
-2. [Data Description](#Data-Description)
-3. [Guidelines](#Guidelines)
-5. [Installation and Setup](#Installation-and-Setup)
-6. [How to Run](#How-to-Run)
+<br>
 
 ---
 
@@ -24,6 +17,8 @@ The main objective of this project is to develop a model that can predict which 
 - Discover patterns, trends, and correlations within the customer data. 📈
 - Create a set of discriminating characteristics that define the customers who are more likely to purchase the new product. 🛍️
 - Build a model that can generalize these findings to the entire customer base, ensuring that future campaigns are more profitable. 💡
+
+<br>
 
 ---
 
@@ -36,6 +31,8 @@ The dataset consists of **2,240 customers** who were contacted as part of a pilo
 4. **Customer Lifetime and Satisfaction**: Customer-specific data like CustomerFrom, Complain. 🕒
 5. **Campaign Response**: Five response flags corresponding to different campaigns. 📞
 6. **Ultimate Campaign Cost and Revenue**: Data related to the cost and revenue generated from the pilot campaign. 📉📈
+
+<br>
 
 ---
 
@@ -50,9 +47,13 @@ The project consists of a series of steps that will be completed through **Jupyt
 6. **conclusion.ipynb**: Summarizes the findings and provides a detailed yet concise description of the key discriminating features. 📝
 7. **respondents.xlsx**: Contains the subset of customers who are more likely to respond to future campaigns based on the selected discriminating features. 📊
 
+<br>
+
 ---
 
 The estimated profit was 421MU.
+
+<br>
 
 ---
 
