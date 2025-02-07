@@ -64,8 +64,7 @@ The estimated profit was 421MU.
    git clone https://github.com/MGN19/Customer-Response-Model-in-Direct-Marketing.git
    ```
 
-▶️ How to Run:
-Jupyter Notebooks: All project tasks are conducted in Jupyter Notebooks. Run each notebook in the given order:
+▶️ How to Run: All project tasks were conducted in JupyterLab. Run each notebook in the given order:
 
 1. combine.ipynb
 2. preprocess.ipynb
