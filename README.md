@@ -42,7 +42,7 @@ The project consists of a series of steps that will be completed through **Jupyt
 1. **combine.ipynb**: Combines the separate data files from the six extraction calls. 🔗
 2. **preprocess.ipynb**: Describes the structure of the dataset, handles missing values, duplicates, and feature transformation. 🧹
 3. **extract.ipynb**: Extracts useful features and evaluates feature correlation and redundancy. 🔍
-4. **explore1.ipynb**: Assesses individual features' ability to discriminate between respondents and non-respondents, using Scaled mean deviation, Spearman vs Pearson correlation and the \( \chi^2 \) test of independence. 🔑
+4. **explore1.ipynb**: Assesses individual features' ability to discriminate between respondents and non-respondents, using Scaled mean deviation, Spearman vs Pearson correlation and the chi^2 test of independence. 🔑
 5. **explore2.ipynb**: Explores the joint discrimination power of features, aiming to extract precise and representative characteristics of respondents. 🧠
 6. **conclusion.ipynb**: Summarizes the findings and provides a detailed yet concise description of the key discriminating features. 📝
 7. **respondents.xlsx**: Contains the subset of customers who are more likely to respond to future campaigns based on the selected discriminating features. 📊
