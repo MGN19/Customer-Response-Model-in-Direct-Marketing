@@ -73,4 +73,4 @@ The estimated profit was 421MU.
 5. explore2.ipynb
 6. conclusion.ipynb
 
-Excel Output: After completing the notebooks, the final list of respondents will be saved as respondents.xlsx, which can be used for the next campaign. 📊
+Excel Output: After completing the notebooks, the final list of respondents were saved as respondents.xlsx, which can be used for the next campaign. 📊
